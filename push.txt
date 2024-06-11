@@ -1,1 +1,4 @@
 tadi salah ketik, ini versi terbarunya
+ceritanya temen2 udah banyak update di branch ini dan banyak commitan baru
+tapi saya masih keasikan sendiri di branch pribadi (second-branch)
+alhasil harus rebase supaya branch second-branch sama levelnya dengan main dari temen2
